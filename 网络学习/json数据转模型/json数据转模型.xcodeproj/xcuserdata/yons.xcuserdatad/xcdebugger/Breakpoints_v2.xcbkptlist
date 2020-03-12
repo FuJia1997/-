@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "json&#x6570;&#x636e;&#x8f6c;&#x6a21;&#x578b;/ViewController.m"
+            timestampString = "600427736.057214"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "json&#x6570;&#x636e;&#x8f6c;&#x6a21;&#x578b;/ViewController.m"
+            timestampString = "600427736.057512"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__29-[ViewController viewDidLoad]_block_invoke"
+                  moduleName = "json&#x6570;&#x636e;&#x8f6c;&#x6a21;&#x578b;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yons/Desktop/%E7%BD%91%E7%BB%9C%E5%AD%A6%E4%B9%A0/json%E6%95%B0%E6%8D%AE%E8%BD%AC%E6%A8%A1%E5%9E%8B/json%E6%95%B0%E6%8D%AE%E8%BD%AC%E6%A8%A1%E5%9E%8B/ViewController.m"
+                  timestampString = "600427614.96223"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "463">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__29-[ViewController viewDidLoad]_block_invoke"
+                  moduleName = "json&#x6570;&#x636e;&#x8f6c;&#x6a21;&#x578b;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yons/Desktop/%E7%BD%91%E7%BB%9C%E5%AD%A6%E4%B9%A0/json%E6%95%B0%E6%8D%AE%E8%BD%AC%E6%A8%A1%E5%9E%8B/json%E6%95%B0%E6%8D%AE%E8%BD%AC%E6%A8%A1%E5%9E%8B/ViewController.m"
+                  timestampString = "600427614.9645391"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "533">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
